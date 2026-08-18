@@ -1,12 +1,12 @@
 {
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "CLI for the Trellis template engine: scaffold, build, and serve sites",
   "homepage": "https://github.com/tolo/trellis",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tolo/trellis/releases/download/v0.10.0/trellis-v0.10.0-windows-x64.zip",
-      "hash": "d8919a6639a3a6d329acd30eee23448dad17eda29200caaee730ce358ec8aa71"
+      "url": "https://github.com/tolo/trellis/releases/download/v0.10.1/trellis-v0.10.1-windows-x64.zip",
+      "hash": "44dd4bd1e2b3eb2c989c5fc15141946e180b96e59fd0a7bdf3f32572f6688916"
     }
   },
   "bin": "trellis.exe",
